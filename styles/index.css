@@ -9,7 +9,21 @@ html,body {
 .title{
     text-align: center;
 }
-
+#top{
+   display: inline-block;
+   margin-bottom: 0;
+}
+#more {
+    border: 1px solid black;
+    width: 80px;
+    border-radius: 5%;
+    text-align: center;
+    margin: auto;
+    box-sizing: border-box;
+    border-color: buttonface;
+    background: #f4f5f7;
+   
+}
 .slider{
     width: 100%;
     height: auto;
